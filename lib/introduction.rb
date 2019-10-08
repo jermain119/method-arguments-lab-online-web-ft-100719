@@ -1,1 +1,3 @@
-def 
+def name (josh)
+  name = josh
+  
